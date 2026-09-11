@@ -28,7 +28,7 @@
 
 ## 🧠 About Me
 
-I'm **Nithin**, a software engineering intern and student from **Bengaluru, India**, focused on **AI engineering, LLM systems, and backend development**.
+I'm **Nithin**, an Artifical Engineering intern and student from **Bengaluru, India**, focused on **AI Frameworks, LLM systems, and backend development**.
 
 I like building things where the interesting part isn't just the model — it's everything around it: retrieval, agents, tool use, evaluation, and failure handling.
 
