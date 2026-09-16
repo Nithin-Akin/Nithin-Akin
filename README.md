@@ -1,79 +1,125 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=12,20,24&text=NITHIN%20AKIN&fontSize=52&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=AI%20ENGINEER%20%E2%80%A2%20LLM%20SYSTEMS%20%E2%80%A2%20BACKEND&descAlignY=57&descSize=15"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&repeat=true&width=650&height=45&lines=building+AI+systems+that+actually+do+things.;RAG+%E2%86%92+Agents+%E2%86%92+Tools+%E2%86%92+Evaluation;build+%E2%86%92+break+%E2%86%92+understand+%E2%86%92+rebuild" />
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Hi%20There,%20I'm%20Nithin%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Your%20Friendly%20Neighbourhood%20LLM%20Guy&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/Nithin-Akin">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+multi-agent+AI+systems;Shipping+RAG+%26+LLM-powered+products;Turning+chaos+into+clean+data+pipelines;Always+debugging+something+%F0%9F%94%A5&font=Fira+Code&center=true&width=550&height=50&color=8A2BE2&vCenter=true&size=22"/>
 </a>
-&nbsp;
-<a href="https://www.linkedin.com/in/nithinsathya007/">
-<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
-&nbsp;
-<a href="mailto:nithinios16@gmail.com">
-<img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-</a>
+
+<img src="https://profile-counter.glitch.me/Nithin-Akin/count.svg" alt="visitor count" />
 
 </div>
 
 <br/>
 
-## `$ whoami`
+<table align="center">
+<tr>
+<td valign="top" width="50%">
 
-AI engineer building around **LLMs, RAG, agents, multimodal systems and backend infrastructure**.
+### 🧠 About Me
 
-I care about the parts between the prompt and the answer — retrieval, context, tools, orchestration, evaluation and failure handling.
+```yaml
+name: Nithin
+role: LLM / AI Engineer
+location: Bangalore, India 🇮🇳
+focus:
+  - Multi-agent systems
+  - Retrieval-Augmented Generation (RAG)
+  - Multimodal AI applications
+currently_building: "Agentic systems that get real work done"
+fun_fact: "🥶 always shipping something"
+```
 
-<br/>
+</td>
+<td valign="top" width="50%">
 
-## `$ ls ./projects`
+### 📊 GitHub Stats
 
-### [`RepoGraph`](https://github.com/Nithin-Akin/Regora)
+<img src="https://github-readme-stats.vercel.app/api?username=Nithin-Akin&show_icons=true&theme=radical&hide_border=true&count_private=true" width="100%"/>
 
-> Understand a codebase before you break it.
-
-AI-powered repository intelligence using static analysis, graphs and LLMs.
-
-### [`invoice-reconciliation-agent-system`](https://github.com/Nithin-Akin/invoice-reconciliation-agent-system)
-
-Multi-agent system for automated invoice processing and reconciliation.
-
-### [`multimodal-rag-chatbot`](https://github.com/Nithin-Akin/multimodal-rag-chatbot)
-
-Multimodal RAG with hybrid **FAISS + BM25** retrieval.
-
-<br/>
-
-## `$ stack`
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,ts,react,postgres,docker,git,linux&theme=dark"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nithin-Akin&layout=compact&theme=radical&hide_border=true)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Nithin-Akin&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+### 🚀 Featured Work
+
+<div align="center">
+
+<a href="https://github.com/Nithin-Akin/invoice-reconciliation-agent-system">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nithin-Akin&repo=invoice-reconciliation-agent-system&theme=radical&hide_border=true"/>
+</a>
+<a href="https://github.com/Nithin-Akin/multimodal-rag-chatbot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nithin-Akin&repo=multimodal-rag-chatbot&theme=radical&hide_border=true"/>
+</a>
+<br/>
+<a href="https://github.com/sarim2000/pennywiseai-tracker">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sarim2000&repo=pennywiseai-tracker&theme=radical&hide_border=true"/>
+</a>
+<a href="https://github.com/Nithin-Akin/sio-vision-care">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nithin-Akin&repo=sio-vision-care&theme=radical&hide_border=true"/>
+</a>
+
+</div>
+
+- 🧾 **[invoice-reconciliation-agent-system](https://github.com/Nithin-Akin/invoice-reconciliation-agent-system)** — Multi-agent system automating invoice reconciliation end-to-end
+- 🖼️ **[multimodal-rag-chatbot](https://github.com/Nithin-Akin/multimodal-rag-chatbot)** — A RAG-powered chatbot that reasons across text and images
+- 💰 **[pennywiseai-tracker](https://github.com/sarim2000/pennywiseai-tracker)** — On-device AI that turns transaction SMS into clean financial data, 549⭐ and counting
+- 👁️ **[sio-vision-care](https://github.com/Nithin-Akin/sio-vision-care)** — TypeScript-based vision care platform
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,typescript,kotlin,docker,git,github,vscode,linux&theme=dark" />
 
 <br/><br/>
 
-`LLMs` · `RAG` · `Agents` · `Tool Calling` · `Vector Search` · `Multimodal AI`
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
-<br/>
-
-## `$ activity`
+---
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nithin-Akin&bg_color=00000000&color=8B5CF6&line=06B6D4&point=FFFFFF&area=true&hide_border=true"/>
+### 📈 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nithin-Akin&theme=redical&hide_border=true" width="100%"/>
+
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/Nithin-Akin/Nithin-Akin/output/github-contribution-grid-snake.svg" width="100%"/>
 
 </div>
 
-<br/>
+---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&customColorList=24,20,12&section=footer&animation=fadeIn"/>
+### 📫 Let's Connect
+
+<a href="https://github.com/Nithin-Akin"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=100&section=footer" width="100%"/>
+
+**Thanks for stopping by — now go build something cool.** 🚀
 
 </div>
