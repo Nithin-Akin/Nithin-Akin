@@ -1,5 +1,13 @@
-<div align="center"> <a href="https://github.com/Nithin-Akin"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=8B95F0&center=true&vCenter=true&width=600&height=100&lines=%3E+whoami;Nithin+Akin;%3E+status;Your+friendly+neighbourhood+LLM+guy+%F0%9F%A5%B6;%3E+base;Bangalore%2C+India" alt="Typing SVG" /> </a> <br/> 
+<div align="center">
 
-GitHub LinkedIn Email
+<a href="https://github.com/Nithin-Akin">
+  <img src="./assets/nithin-terminal.gif" width="600" alt="Terminal intro" />
+</a>
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-0d0e12?style=flat-square&logo=github&logoColor=8b95f0)](https://github.com/Nithin-Akin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0e12?style=flat-square&logo=linkedin&logoColor=8b95f0)](https://www.linkedin.com/in/nithinsathya007/)
+[![Email](https://img.shields.io/badge/Email-0d0e12?style=flat-square&logo=gmail&logoColor=8b95f0)](mailto:nithinios16@gmail.com)
 
 </div>
