@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/Nithin-Akin">
-  <img src="./assets/nithin-terminal.gif" width="600" alt="Terminal intro" />
+  <img src="./assets/nithin-terminal.gif" width="610" alt="Terminal intro" />
 </a>
 
 <br/>
